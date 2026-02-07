@@ -3,11 +3,13 @@ My weekend project to build a cello with the help of CNC and laser cut.
 
 Step 1: Find a model.
 
-Henry A. Strobel: [Cello Making: For Use with Violin Making, Step by Step](https://www.henrystrobel.com)
+  - Henry A. Strobel: [Cello Making: For Use with Violin Making, Step by Step](https://www.henrystrobel.com)
 
 Step 2: Build the inner template.
 
-Online resource: [A full size (755mm) cello assembly](https://grabcad.com/library/a-full-size-755mm-cello-assembly-1)
+  - Online resource: [A full size (755mm) cello assembly](https://grabcad.com/library/a-full-size-755mm-cello-assembly-1)
+
+  - CAD Tool: [FreeCad](https://www.freecad.org/index.php?lang=en)
 
 | Parameter      | Value                                    |
 | -------------- | ---------------------------------------- |
