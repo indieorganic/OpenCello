@@ -11,8 +11,7 @@ Step 2: Build the inner template.
 
   - CAD Tool: [FreeCad](https://www.freecad.org/index.php?lang=en)
     
-  - Generate 2D DXF from STEP with this example macro : [cello_inner_mold_from_step
-](https://github.com/indieorganic/OpenCello/blob/main/FreeCAD/cello_inner_mold_from_step)
+  - Generate 2D DXF from STEP: Change the axis to let top plate face to z-axis. (Try the macro "change_axis")
 
 | Parameter      | Value                                    |
 | -------------- | ---------------------------------------- |
