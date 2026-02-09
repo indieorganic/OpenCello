@@ -55,5 +55,5 @@ def join_and_offset_dxf(input_file, output_file, offset_dist=2.0, tol=0.01):
         print(f"An error occurred: {str(e)}")
 
 # Try -2.0 for inward (depends on winding order)
-join_and_offset_dxf('back_flat_joined.dxf', 'back_flat_offset.dxf', offset_dist=-2.0)
+join_and_offset_dxf('back_flat_joined.dxf', 'back_flat_offset.dxf', offset_dist=-4.7)
 
